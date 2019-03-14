@@ -1,2 +1,4 @@
-# cheat-sheet
-A collection of cheat sheets for usefull developer commands
+# Cheat sheet collection
+
+## Description
+This repo contains a list of cheat sheets.
