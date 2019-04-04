@@ -1,6 +1,13 @@
-# Cheat sheet collection
+# Development resources
 
 ## Description
-This repo contains a list of cheat sheets.
 
-note to self: arrange into folders as it grows
+A collection of development resources for daily use. Project based view.
+
+Cheat sheets:
+* [Java](/java)
+* [Git](/git)
+* [Programming](/programming)
+
+Extra:
+* [Markdown resources](markdown-resources.md)
