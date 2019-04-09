@@ -35,3 +35,5 @@ Wikipedia:
 * [Requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis)
 * [Functional specification](https://en.wikipedia.org/wiki/Functional_specification)
 * [ESI: Agile Requirements Cheat Sheet](/requirements/ESI-International_Agile-Requirements-Cheat-Sheet.pdf)
+* [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis)
+* [IPO model (approach of System analysis)](https://en.wikipedia.org/wiki/IPO_model)
