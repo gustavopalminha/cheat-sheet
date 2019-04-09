@@ -24,11 +24,11 @@ When the team agrees that functional specification consensus is reached, the fun
 One popular method of writing a functional specification document involves drawing or rendering either simple wire frames or accurate, graphically designed UI screenshots. After this has been completed, and the screen examples are approved by all stakeholders, graphical elements can be numbered and written instructions can be added for each number on the screen example. For example, a login screen can have the username field labeled '1' and password field labeled '2,' and then each number can be declared in writing, for use by software engineers and later for beta testing purposes to ensure that functionality is as intended. The benefit of this method is that countless additional details can be attached to the screen examples. 
 
 Examples
-    - Advanced Microcontroller Bus Architecture
-    - Extensible Firmware Interface
-    - Multiboot Specification
-    - Real-time specification for Java
-    - Single UNIX Specification
+* Advanced Microcontroller Bus Architecture
+* Extensible Firmware Interface
+* Multiboot Specification
+* Real-time specification for Java
+* Single UNIX Specification
 
 ## References
 Wikipedia: 
