@@ -34,4 +34,4 @@ Examples
 Wikipedia: 
 * [Requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis)
 * [Functional specification](https://en.wikipedia.org/wiki/Functional_specification)
-* [ESI: Agile Requirements Cheat Sheet](/ESI-International_Agile-Requirements-Cheat-Sheet.pdf)
+* [ESI: Agile Requirements Cheat Sheet](/requirements/ESI-International_Agile-Requirements-Cheat-Sheet.pdf)
