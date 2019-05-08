@@ -1,4 +1,4 @@
-# Web:
+# Web
 
 ## Introduction
 A list of usefull cheat sheets about this development.
