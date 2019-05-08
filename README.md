@@ -8,7 +8,7 @@ Cheat sheets:
 * [Java](/java)
 * [Git](/git)
 * [Programming](/programming)
-* [Programming](/requirements)
+* [Requirements](/requirements)
 * [UML](/uml)
 
 Extra:
