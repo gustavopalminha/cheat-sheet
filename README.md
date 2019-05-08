@@ -10,6 +10,7 @@ Cheat sheets:
 * [Programming](/programming)
 * [Requirements](/requirements)
 * [UML](/uml)
+* [Web](/web)
 
 Extra:
 * [Markdown resources](markdown-resources.md)
