@@ -8,6 +8,8 @@ Cheat sheets:
 * [Java](/java)
 * [Git](/git)
 * [Programming](/programming)
+* [Programming](/requirements)
+* [UML](/uml)
 
 Extra:
 * [Markdown resources](markdown-resources.md)
